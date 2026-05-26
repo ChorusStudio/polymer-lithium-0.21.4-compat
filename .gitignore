@@ -32,3 +32,4 @@ bin/
 run/
 /run-*/
 /test-mods/
+/libs/
